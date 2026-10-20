@@ -28,18 +28,24 @@
 //console.log(message)
 //console.log(Aposented)
 //------sexta --------///-----/
-let Red = 'red'
+//let Red = 'red'
 
-switch(Red){
-    case 'red': console.log('Stop!');
-    break;
-    case 'amarelo': console.log('wait..');
-    break;
-    case 'green' : console.log('go!');
-}
+//switch(Red){
+   // case 'red': console.log('Stop!');
+ //   break;
+    //case 'amarelo': console.log('wait..');
+    //break;
+  //  case 'green' : console.log('go!');
+//}
 //------- Sete ---------///---------
-const Parts = ['RTX3080', 'intel core 15', 'gabinete branco', 'SSD'];
+//const Parts = ['RTX3080', 'intel core 15', 'gabinete branco', 'SSD'];
 
-for (const part of Parts){
-    console.log('you need this to build your pc:', part)
+//for (const part of Parts){
+  //  console.log('you need this to build your pc:', part)
+//}
+//------- Oito ---------///---------
+let k = 0;
+while (k < 3){
+    console.log('Valor de K:', k);
+    
 }
