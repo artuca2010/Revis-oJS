@@ -44,8 +44,15 @@
   //  console.log('you need this to build your pc:', part)
 //}
 //------- Oito ---------///---------
-let k = 0;
-while (k < 3){
-    console.log('Valor de K:', k);
-    
+//let k = 0;
+//while (k < 3){
+  //  console.log('Valor de K:', k);
+
+//}
+//------- nove ---------///---------
+let contador = 10;
+while (contador > 0){
+    console.log("contagem", contador);
+    contador--;
 }
+console.log("decolar!")
